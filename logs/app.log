@@ -1,0 +1,19 @@
+2026-05-16T15:13:06.405+08:00  INFO 24224 --- [main] c.e.cardsit.CardsitApplicationTests      : Starting CardsitApplicationTests using Java 17.0.19 with PID 24224 (started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16T15:13:06.408+08:00  INFO 24224 --- [main] c.e.cardsit.CardsitApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2026-05-16T15:13:07.292+08:00  INFO 24224 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16T15:13:07.381+08:00  INFO 24224 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 1 JPA repository interface.
+2026-05-16T15:13:08.137+08:00  INFO 24224 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16T15:13:08.271+08:00  INFO 24224 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16T15:13:08.364+08:00  INFO 24224 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-16T15:13:09.007+08:00  INFO 24224 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16T15:13:09.066+08:00  INFO 24224 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-05-16T15:13:09.669+08:00  INFO 24224 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: b95b6d54-436b-48a5-a86c-2b73e206725c
+2026-05-16T15:13:09.673+08:00  INFO 24224 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-05-16T15:13:09.717+08:00  WARN 24224 --- [main] org.hibernate.orm.deprecation            : HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16T15:13:11.051+08:00  INFO 24224 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16T15:13:11.524+08:00  INFO 24224 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16T15:13:12.077+08:00  WARN 24224 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16T15:13:12.623+08:00  INFO 24224 --- [main] c.e.cardsit.CardsitApplicationTests      : Started CardsitApplicationTests in 6.584 seconds (process running for 7.685)
+2026-05-16T15:13:13.461+08:00  INFO 24224 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16T15:13:13.466+08:00  INFO 24224 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-05-16T15:13:13.483+08:00  INFO 24224 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

@@ -1,0 +1,388 @@
+2026-05-16 15:17:03 - Starting CardsitApplication using Java 17.0.19 with PID 1812 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:17:03 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:17:03 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:17:03 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:17:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:17:04 - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interface.
+2026-05-16 15:17:04 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:17:04 - Starting service [Tomcat]
+2026-05-16 15:17:04 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:17:04 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:17:04 - Root WebApplicationContext: initialization completed in 1137 ms
+2026-05-16 15:17:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:17:05 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:17:05 - HHH000026: Second-level cache disabled
+2026-05-16 15:17:05 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:17:05 - HikariPool-1 - Starting...
+2026-05-16 15:17:05 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: ef771fb7-eeb4-431e-abbf-ced2fc6311d9
+2026-05-16 15:17:05 - HikariPool-1 - Start completed.
+2026-05-16 15:17:05 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:17:06 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:17:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:17:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:17:07 - LiveReload server is running on port 35729
+2026-05-16 15:17:07 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:17:07 - Started CardsitApplication in 3.904 seconds (process running for 4.319)
+2026-05-16 15:18:04 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-16 15:18:04 - Initializing Servlet 'dispatcherServlet'
+2026-05-16 15:18:04 - Completed initialization in 0 ms
+2026-05-16 15:23:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:23:18 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:23:18 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:25:44 - Starting CardsitApplicationTests using Java 17.0.19 with PID 26344 (started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:25:44 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:25:45 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:25:45 - Finished Spring Data repository scanning in 84 ms. Found 1 JPA repository interface.
+2026-05-16 15:25:46 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:25:46 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:25:46 - HHH000026: Second-level cache disabled
+2026-05-16 15:25:47 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:25:47 - HikariPool-1 - Starting...
+2026-05-16 15:25:47 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: cfade63d-bf99-4fdd-91ee-a70ad6633b85
+2026-05-16 15:25:47 - HikariPool-1 - Start completed.
+2026-05-16 15:25:47 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:25:49 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:25:49 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:25:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:25:50 - Started CardsitApplicationTests in 6.42 seconds (process running for 7.477)
+2026-05-16 15:25:51 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:25:51 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:25:51 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:26:02 - Starting CardsitApplication using Java 17.0.19 with PID 17480 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:26:02 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:26:02 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:26:02 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:26:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:26:03 - Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interface.
+2026-05-16 15:26:03 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:26:03 - Starting service [Tomcat]
+2026-05-16 15:26:03 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:26:03 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:26:03 - Root WebApplicationContext: initialization completed in 1098 ms
+2026-05-16 15:26:03 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:26:03 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:26:03 - HHH000026: Second-level cache disabled
+2026-05-16 15:26:03 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:26:03 - HikariPool-1 - Starting...
+2026-05-16 15:26:04 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 192803aa-bc34-40cc-ae77-caa1ec9d85ba
+2026-05-16 15:26:04 - HikariPool-1 - Start completed.
+2026-05-16 15:26:04 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:26:04 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:26:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:26:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:26:05 - LiveReload server is running on port 35729
+2026-05-16 15:26:05 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:26:05 - Started CardsitApplication in 3.385 seconds (process running for 3.795)
+2026-05-16 15:26:09 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-16 15:26:09 - Initializing Servlet 'dispatcherServlet'
+2026-05-16 15:26:09 - Completed initialization in 3 ms
+2026-05-16 15:26:09 - === REQUEST START ===
+2026-05-16 15:26:09 - Method: GET
+2026-05-16 15:26:09 - URI: /users/3
+2026-05-16 15:26:09 - === REQUEST END ===
+2026-05-16 15:26:09 - Completed: /users/3
+2026-05-16 15:34:02 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:34:02 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:34:02 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:34:18 - Starting CardsitApplicationTests using Java 17.0.19 with PID 31204 (started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:34:18 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:34:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:34:20 - Finished Spring Data repository scanning in 125 ms. Found 1 JPA repository interface.
+2026-05-16 15:34:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:34:21 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:34:21 - HHH000026: Second-level cache disabled
+2026-05-16 15:34:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:34:22 - HikariPool-1 - Starting...
+2026-05-16 15:34:22 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 116e82bd-07b0-46f5-a710-03a113e6d1ab
+2026-05-16 15:34:22 - HikariPool-1 - Start completed.
+2026-05-16 15:34:22 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:34:24 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:34:24 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:34:25 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:34:25 - Started CardsitApplicationTests in 7.217 seconds (process running for 8.252)
+2026-05-16 15:34:26 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:34:26 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:34:26 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:34:39 - Starting CardsitApplication using Java 17.0.19 with PID 24428 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:34:39 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:34:40 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:34:40 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:34:40 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:34:40 - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interface.
+2026-05-16 15:34:41 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:34:41 - Starting service [Tomcat]
+2026-05-16 15:34:41 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:34:41 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:34:41 - Root WebApplicationContext: initialization completed in 1086 ms
+2026-05-16 15:34:41 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:34:41 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:34:41 - HHH000026: Second-level cache disabled
+2026-05-16 15:34:41 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:34:41 - HikariPool-1 - Starting...
+2026-05-16 15:34:41 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: e7178b95-4d30-44da-8bac-45015432142e
+2026-05-16 15:34:41 - HikariPool-1 - Start completed.
+2026-05-16 15:34:41 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:34:42 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:34:42 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:34:43 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:34:43 - LiveReload server is running on port 35729
+2026-05-16 15:34:43 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:34:43 - Started CardsitApplication in 3.759 seconds (process running for 4.182)
+2026-05-16 15:34:47 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-16 15:34:47 - Initializing Servlet 'dispatcherServlet'
+2026-05-16 15:34:47 - Completed initialization in 0 ms
+2026-05-16 15:34:47 - === REQUEST START ===
+2026-05-16 15:34:47 - Method: GET
+2026-05-16 15:34:47 - URI: /users/3
+2026-05-16 15:34:47 - === REQUEST END ===
+2026-05-16 15:34:47 - Completed: /users/3
+2026-05-16 15:34:48 - === REQUEST START ===
+2026-05-16 15:34:48 - Method: GET
+2026-05-16 15:34:48 - URI: /users/3
+2026-05-16 15:34:48 - === REQUEST END ===
+2026-05-16 15:34:48 - Completed: /users/3
+2026-05-16 15:34:50 - === REQUEST START ===
+2026-05-16 15:34:50 - Method: DELETE
+2026-05-16 15:34:50 - URI: /users/1
+2026-05-16 15:34:50 - === REQUEST END ===
+2026-05-16 15:34:50 - Completed: /users/1
+2026-05-16 15:34:55 - === REQUEST START ===
+2026-05-16 15:34:55 - Method: DELETE
+2026-05-16 15:34:55 - URI: /users/1
+2026-05-16 15:34:55 - === REQUEST END ===
+2026-05-16 15:34:55 - Completed: /users/1
+2026-05-16 15:34:55 - === REQUEST START ===
+2026-05-16 15:34:55 - Method: DELETE
+2026-05-16 15:34:55 - URI: /users/1
+2026-05-16 15:34:55 - === REQUEST END ===
+2026-05-16 15:34:55 - Completed: /users/1
+2026-05-16 15:37:49 - === REQUEST START ===
+2026-05-16 15:37:49 - Method: DELETE
+2026-05-16 15:37:49 - URI: /users/1
+2026-05-16 15:37:49 - === REQUEST END ===
+2026-05-16 15:37:49 - Completed: /users/1
+2026-05-16 15:37:52 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:37:52 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:37:52 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:38:15 - Starting CardsitApplication using Java 17.0.19 with PID 32492 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:38:15 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:38:15 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:38:15 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:38:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:38:16 - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interface.
+2026-05-16 15:38:16 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:38:16 - Starting service [Tomcat]
+2026-05-16 15:38:16 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:38:16 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:38:16 - Root WebApplicationContext: initialization completed in 1138 ms
+2026-05-16 15:38:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:38:16 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:38:16 - HHH000026: Second-level cache disabled
+2026-05-16 15:38:17 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:38:17 - HikariPool-1 - Starting...
+2026-05-16 15:38:17 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 66c55eb4-823f-46f0-913a-a24f188d4cd6
+2026-05-16 15:38:17 - HikariPool-1 - Start completed.
+2026-05-16 15:38:17 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:38:18 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:38:18 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:38:18 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:38:19 - LiveReload server is running on port 35729
+2026-05-16 15:38:19 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:38:19 - Started CardsitApplication in 3.835 seconds (process running for 4.283)
+2026-05-16 15:38:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-16 15:38:20 - Initializing Servlet 'dispatcherServlet'
+2026-05-16 15:38:20 - Completed initialization in 0 ms
+2026-05-16 15:38:20 - === REQUEST START ===
+2026-05-16 15:38:20 - Method: DELETE
+2026-05-16 15:38:20 - URI: /users/1
+2026-05-16 15:38:21 - === REQUEST END ===
+2026-05-16 15:38:21 - Completed: /users/1
+2026-05-16 15:38:24 - === REQUEST START ===
+2026-05-16 15:38:24 - Method: DELETE
+2026-05-16 15:38:24 - URI: /users/2
+2026-05-16 15:38:24 - === REQUEST END ===
+2026-05-16 15:38:24 - Completed: /users/2
+2026-05-16 15:38:26 - === REQUEST START ===
+2026-05-16 15:38:26 - Method: DELETE
+2026-05-16 15:38:26 - URI: /users/2
+2026-05-16 15:38:26 - === REQUEST END ===
+2026-05-16 15:38:26 - Completed: /users/2
+2026-05-16 15:38:39 - === REQUEST START ===
+2026-05-16 15:38:39 - Method: POST
+2026-05-16 15:38:39 - URI: /users
+2026-05-16 15:38:39 - === REQUEST END ===
+2026-05-16 15:38:39 - Completed: /users
+2026-05-16 15:38:41 - === REQUEST START ===
+2026-05-16 15:38:41 - Method: GET
+2026-05-16 15:38:41 - URI: /users/3
+2026-05-16 15:38:41 - === REQUEST END ===
+2026-05-16 15:38:41 - Completed: /users/3
+2026-05-16 15:38:44 - === REQUEST START ===
+2026-05-16 15:38:44 - Method: GET
+2026-05-16 15:38:44 - URI: /users/5
+2026-05-16 15:38:44 - === REQUEST END ===
+2026-05-16 15:38:44 - Completed: /users/5
+2026-05-16 15:41:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:41:38 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:41:38 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:41:51 - Starting CardsitApplication using Java 17.0.19 with PID 33680 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:41:51 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:41:51 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:41:51 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:41:51 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:41:51 - Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interface.
+2026-05-16 15:41:52 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:41:52 - Starting service [Tomcat]
+2026-05-16 15:41:52 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:41:52 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:41:52 - Root WebApplicationContext: initialization completed in 1197 ms
+2026-05-16 15:41:52 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:41:52 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:41:52 - HHH000026: Second-level cache disabled
+2026-05-16 15:41:52 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:41:52 - HikariPool-1 - Starting...
+2026-05-16 15:41:53 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 11d6cb80-f444-4a1a-9c4f-6574600bd642
+2026-05-16 15:41:53 - HikariPool-1 - Start completed.
+2026-05-16 15:41:53 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:41:54 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:41:54 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:41:55 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:41:55 - LiveReload server is running on port 35729
+2026-05-16 15:41:55 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:41:55 - Started CardsitApplication in 4.78 seconds (process running for 5.192)
+2026-05-16 15:42:30 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-16 15:42:30 - Initializing Servlet 'dispatcherServlet'
+2026-05-16 15:42:30 - Completed initialization in 0 ms
+2026-05-16 15:42:30 - === REQUEST START ===
+2026-05-16 15:42:30 - Method: GET
+2026-05-16 15:42:30 - URI: /users/pagination
+2026-05-16 15:42:31 - Serializing PageImpl instances as-is is not supported, meaning that there is no guarantee about the stability of the resulting JSON structure!
+	For a stable JSON structure, please use Spring Data's PagedModel (globally via @EnableSpringDataWebSupport(pageSerializationMode = VIA_DTO))
+	or Spring HATEOAS and Spring Data's PagedResourcesAssembler as documented in https://docs.spring.io/spring-data/commons/reference/repositories/core-extensions.html#core.web.pageables.
+
+2026-05-16 15:42:31 - === REQUEST END ===
+2026-05-16 15:42:31 - Completed: /users/pagination
+2026-05-16 15:42:41 - === REQUEST START ===
+2026-05-16 15:42:41 - Method: GET
+2026-05-16 15:42:41 - URI: /users/pagination
+2026-05-16 15:42:41 - === REQUEST END ===
+2026-05-16 15:42:41 - Completed: /users/pagination
+2026-05-16 15:42:49 - === REQUEST START ===
+2026-05-16 15:42:49 - Method: GET
+2026-05-16 15:42:49 - URI: /users/pagination
+2026-05-16 15:42:49 - === REQUEST END ===
+2026-05-16 15:42:49 - Completed: /users/pagination
+2026-05-16 15:48:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:48:12 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:48:12 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:48:23 - Starting CardsitApplication using Java 17.0.19 with PID 16192 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:48:23 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:48:23 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:48:23 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:48:24 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:48:24 - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interface.
+2026-05-16 15:48:24 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:48:24 - Starting service [Tomcat]
+2026-05-16 15:48:24 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:48:24 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:48:24 - Root WebApplicationContext: initialization completed in 1111 ms
+2026-05-16 15:48:25 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:48:25 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:48:25 - HHH000026: Second-level cache disabled
+2026-05-16 15:48:25 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:48:25 - HikariPool-1 - Starting...
+2026-05-16 15:48:25 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: aa0c954a-dfa6-4212-b2db-13d44e26ee82
+2026-05-16 15:48:25 - HikariPool-1 - Start completed.
+2026-05-16 15:48:25 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:48:26 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:48:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:48:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:48:27 - LiveReload server is running on port 35729
+2026-05-16 15:48:27 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:48:27 - Started CardsitApplication in 3.989 seconds (process running for 4.384)
+2026-05-16 15:49:01 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-16 15:49:01 - Initializing Servlet 'dispatcherServlet'
+2026-05-16 15:49:01 - Completed initialization in 0 ms
+2026-05-16 15:49:01 - === REQUEST START ===
+2026-05-16 15:49:01 - Method: GET
+2026-05-16 15:49:01 - URI: /users/external/users
+2026-05-16 15:49:02 - === REQUEST END ===
+2026-05-16 15:49:02 - Completed: /users/external/users
+2026-05-16 15:57:20 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:57:20 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:57:20 - HikariPool-1 - Shutdown completed.
+2026-05-16 15:59:37 - Starting CardsitApplication using Java 17.0.19 with PID 12444 (C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\cardsit)
+2026-05-16 15:59:37 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 15:59:37 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 15:59:37 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 15:59:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 15:59:38 - Finished Spring Data repository scanning in 45 ms. Found 1 JPA repository interface.
+2026-05-16 15:59:38 - Tomcat initialized with port 8080 (http)
+2026-05-16 15:59:38 - Starting service [Tomcat]
+2026-05-16 15:59:38 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 15:59:38 - Initializing Spring embedded WebApplicationContext
+2026-05-16 15:59:38 - Root WebApplicationContext: initialization completed in 1377 ms
+2026-05-16 15:59:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 15:59:39 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 15:59:39 - HHH000026: Second-level cache disabled
+2026-05-16 15:59:39 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 15:59:39 - HikariPool-1 - Starting...
+2026-05-16 15:59:40 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 712b40a9-2f2b-477a-9307-b0a446611be2
+2026-05-16 15:59:40 - HikariPool-1 - Start completed.
+2026-05-16 15:59:40 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 15:59:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 15:59:41 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:59:41 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 15:59:41 - LiveReload server is running on port 35729
+2026-05-16 15:59:41 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 15:59:41 - Started CardsitApplication in 4.856 seconds (process running for 5.357)
+2026-05-16 15:59:47 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 15:59:47 - HikariPool-1 - Shutdown initiated...
+2026-05-16 15:59:47 - HikariPool-1 - Shutdown completed.
+2026-05-16 16:02:28 - Starting UserApplicationTests using Java 17.0.19 with PID 12156 (started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\user)
+2026-05-16 16:02:28 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 16:02:28 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 16:02:29 - Finished Spring Data repository scanning in 92 ms. Found 1 JPA repository interface.
+2026-05-16 16:02:30 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 16:02:30 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 16:02:30 - HHH000026: Second-level cache disabled
+2026-05-16 16:02:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 16:02:31 - HikariPool-1 - Starting...
+2026-05-16 16:02:32 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 5fbc2df6-3cfa-4557-94ed-eafefefbe042
+2026-05-16 16:02:32 - HikariPool-1 - Start completed.
+2026-05-16 16:02:32 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 16:02:33 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 16:02:34 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 16:02:35 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 16:02:35 - Started UserApplicationTests in 8.184 seconds (process running for 9.478)
+2026-05-16 16:02:36 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 16:02:36 - HikariPool-1 - Shutdown initiated...
+2026-05-16 16:02:36 - HikariPool-1 - Shutdown completed.
+2026-05-16 16:02:56 - Starting UserApplication using Java 17.0.19 with PID 27272 (C:\Users\Sunline PC\Documents\Personal\JAva proj\user\target\classes started by Sunline PC in C:\Users\Sunline PC\Documents\Personal\JAva proj\user)
+2026-05-16 16:02:56 - No active profile set, falling back to 1 default profile: "default"
+2026-05-16 16:02:56 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-16 16:02:56 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-16 16:02:57 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-16 16:02:57 - Finished Spring Data repository scanning in 94 ms. Found 1 JPA repository interface.
+2026-05-16 16:02:58 - Tomcat initialized with port 8080 (http)
+2026-05-16 16:02:58 - Starting service [Tomcat]
+2026-05-16 16:02:58 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2026-05-16 16:02:59 - Initializing Spring embedded WebApplicationContext
+2026-05-16 16:02:59 - Root WebApplicationContext: initialization completed in 2562 ms
+2026-05-16 16:02:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-16 16:02:59 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-16 16:02:59 - HHH000026: Second-level cache disabled
+2026-05-16 16:02:59 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-16 16:02:59 - HikariPool-1 - Starting...
+2026-05-16 16:03:00 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: f5f71373-c376-4939-b663-329b4293e47e
+2026-05-16 16:03:00 - HikariPool-1 - Start completed.
+2026-05-16 16:03:00 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-16 16:03:01 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-16 16:03:01 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 16:03:02 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-16 16:03:02 - LiveReload server is running on port 35729
+2026-05-16 16:03:02 - Tomcat started on port 8080 (http) with context path '/'
+2026-05-16 16:03:02 - Started UserApplication in 6.556 seconds (process running for 6.974)
+2026-05-16 16:03:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-16 16:03:12 - HikariPool-1 - Shutdown initiated...
+2026-05-16 16:03:12 - HikariPool-1 - Shutdown completed.
