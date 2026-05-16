@@ -1,8 +1,8 @@
 # CardsIT - Spring Boot Backend Assignment
 
-## 📌 Overview
-This is a Spring Boot backend application built for a Java Backend Interview Assignment.  
-It demonstrates CRUD operations, pagination, request/response logging, MSSQL integration, transactional management, and external API integration.
+## 📌 Project Overview
+This is a Spring Boot backend application developed as part of a Java Backend Interview Assignment.  
+It demonstrates CRUD operations, database integration (MSSQL), logging, pagination, transaction management, and external API integration.
 
 ---
 
@@ -11,10 +11,32 @@ It demonstrates CRUD operations, pagination, request/response logging, MSSQL int
 - Spring Boot 3.3.5
 - Spring Data JPA
 - Hibernate
-- MSSQL Server (TESTDB)
+- MSSQL Server
 - Maven
-- RestTemplate (External API call)
+- HikariCP
+- Postman (API testing)
 
 ---
 
-## 📁 Project Structure
+## 🗄️ Database Setup
+
+- Database: `TESTDB`
+- SQL Server instance: `SQLEXPRESS`
+- Authentication: SQL Server Authentication
+
+## ▶️ How to Run the Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Geoffrey-1223/userCreation.git
+cd cardsit
+```
+### 2. Build the Project
+```bash
+mvn clean install
+```
+### 3. Run the Application
+```bash
+mvn spring-boot:run
+```
+
