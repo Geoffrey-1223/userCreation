@@ -8,7 +8,7 @@ public class ExternalApiServices {
 
     public String getExternalUsers() {
 
-        String url = "https://jsonplaceholder.typicode.com/users";
+        String url = "https://dummyjson.com/users";
 
         RestTemplate restTemplate = new RestTemplate();
 
